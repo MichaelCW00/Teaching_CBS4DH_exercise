@@ -5,4 +5,5 @@ background-color: chartreuse;
 ul{font-style: italic;}
 table{border: 1px solid black;
 }
-div{margin: auto;width: 49%;}
+div{margin: auto;width: 49%;padding: 23%;
+}
